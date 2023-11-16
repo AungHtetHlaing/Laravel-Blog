@@ -1,0 +1,13 @@
+$carousel-control-color: 'black';
+
+@import 'venobox/dist/venobox.min.css';
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+@import 'bootstrap/scss/bootstrap';
+
+.article-detail-img {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+}
